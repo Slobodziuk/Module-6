@@ -1,0 +1,1 @@
+Kør "Modul_6_aflevering og sig ja til at processing må skabe en mappe. Ryk de resterende filer ind i mappen hvis ikke hele mappen er downloadet.
